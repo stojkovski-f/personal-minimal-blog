@@ -40,8 +40,9 @@ button:focus-visible {
 .ask-neon {
   display: inline-flex;
   align-items: center;
-  border: 1px solid #ff4fd8;
-  border-radius: 999px;
+  border-radius: 1.25rem;
+  outline: 1px solid #ff4fd8;
+  outline-offset: 0px;
   padding: 0.28rem 0.6rem 0.22rem;
   font-family: var(--font-geist-mono), ui-monospace, monospace;
   font-size: 10px;

@@ -116,9 +116,9 @@ const copy: Record<Locale, AboutCopy> = {
   en: {
     kicker: "About",
     title: "About me",
-    lede: "A tech professional based in Stockholm. I build tailored solutions and help engineering teams excel.",
+    lede: "I'm a Stockholm-based software engineer and technical leader with a passion for building great products, solving complex problems, and helping engineering teams thrive.",
     intro:
-      "From backend development I have gradually moved into technical leadership. That lets me use both an engineering background and people skills to build trust between parts of an organization, and turn business goals into robust technical deliveries.",
+      "My strongest expertise lies in backend development and systems integration, particularly within e-commerce, but my experience spans a much broader range of technologies and engineering disciplines. Over the years, I've grown into technical leadership, combining this broad engineering background with the ability to guide teams, shape technical direction, and bridge the gap between business and technology. I enjoy turning complex challenges into practical, scalable solutions that create real value.",
     connect: "Get in touch",
     factsLabel: "In short",
     facts: [
@@ -167,9 +167,9 @@ const copy: Record<Locale, AboutCopy> = {
   sv: {
     kicker: "Om",
     title: "Om mig",
-    lede: "Teknikprofil i Stockholm. Jag bygger skräddarsydda lösningar och hjälper utvecklingsteam att bli bättre.",
+    lede: "Jag är en mjukvaruingenjör och teknisk ledare i Stockholm, med ett engagemang för att bygga bra produkter, lösa komplexa problem och hjälpa utvecklingsteam att växa.",
     intro:
-      "Från backendutveckling har jag stegvis gått vidare till tekniskt ledarskap. Det låter mig använda både en teknisk bakgrund och färdigheter med människor för att bygga tillit mellan delar av en organisation, och omsätta affärsmål i robusta tekniska leveranser.",
+      "Min starkaste kompetens ligger i backendutveckling och systemintegration, särskilt inom e-handel, men min erfarenhet spänner över ett mycket bredare fält av tekniker och ingenjörsdiscipliner. Med åren har jag gått in i tekniskt ledarskap och kombinerar den breda tekniska bakgrunden med förmågan att leda team, forma teknisk riktning och överbrygga gapet mellan verksamhet och teknik. Jag tycker om att omsätta komplexa utmaningar i praktiska, skalbara lösningar som skapar verkligt värde.",
     connect: "Hör av dig",
     factsLabel: "I korthet",
     facts: [
