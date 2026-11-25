@@ -7,7 +7,7 @@ export type Post = {
   date: string;
   title: Localized;
   summary: Localized;
-  body: Localized[];
+  body: Record<Locale, string[]>;
 };
 
 /** Sample notes. Replace these with your own writing. */

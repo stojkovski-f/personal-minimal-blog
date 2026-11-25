@@ -8,7 +8,7 @@ export type Project = {
   url?: string;
   title: Localized;
   summary: Localized;
-  body: Localized[];
+  body: Record<Locale, string[]>;
 };
 
 export const projects: Project[] = [
