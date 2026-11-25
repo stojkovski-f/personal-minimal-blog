@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Filip Stojkovski",
+    "description": "Portfolio and notes by Filip, a software developer. Selected work, writing, and a way to get in touch."
+  },
+  "nav": {
+    "work": "Projects",
+    "writing": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "skip": "Skip to content"
+  },
+  "home": {
+    "role": "Software Enginner and Technical Leader",
+    "headlineLead": "Software,",
+    "headlineRest": "and people",
+    "intro": "I focus on the intersection of technology, teams and organization to deliver high-quality software and drive business growth.",
+    "viewWork": "View projects",
+    "getInTouch": "Get in touch",
+    "workLabel": "Selected work",
+    "writingLabel": "Recent writing",
+    "allWork": "All work",
+    "allWriting": "All writing"
+  },
+  "portfolio": {
+    "kicker": "Work",
+    "title": "Selected work",
+    "lede": "A short record of problems, constraints, and what shipped. Replace the sample projects with your own.",
+    "visit": "Visit the site",
+    "back": "All projects"
+  },
+  "blog": {
+    "kicker": "Writing",
+    "title": "Notes",
+    "lede": "Short essays on building software and the decisions that are easy to live with.",
+    "readMore": "Read more",
+    "back": "All writing"
+  },
+  "ask": {
+    "label": "Ask me",
+    "powered": "AI powered",
+    "placeholder": "What have you worked on?",
+    "submit": "Ask",
+    "pending": "Looking that up",
+    "unknownLead": "No such information on this site, contact me directly via email",
+    "unknownOr": "or",
+    "quota": "Quota limit reached, contact me directly for more answers via email",
+    "unavailable": "This is unavailable right now. Contact me directly via email",
+    "tooLong": "Keep the question under 400 characters.",
+    "linkedinLabel": "LinkedIn"
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Get in touch",
+    "lede": "For projects, collaborations, or a conversation about software.",
+    "emailLabel": "Email",
+    "note": "A few lines about what you are working on is enough to start."
+  },
+  "footer": {
+    "built": "English and Swedish"
+  },
+  "notFound": {
+    "kicker": "404",
+    "title": "Page not found",
+    "body": "That page is not here.",
+    "back": "Back home"
+  }
+}

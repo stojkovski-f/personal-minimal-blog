@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "Filip Stojkovski",
+    "description": "Portfolio och anteckningar av Filip, mjukvaruutvecklare. Utvalt arbete, texter och ett sätt att ta kontakt."
+  },
+  "nav": {
+    "work": "Projekt",
+    "writing": "Blogg",
+    "about": "Om",
+    "contact": "Kontakt",
+    "menu": "Meny",
+    "close": "Stäng",
+    "language": "Språk",
+    "skip": "Hoppa till innehåll"
+  },
+  "home": {
+    "role": "Mjukvaruutvecklare",
+    "headlineLead": "Mjukvara,",
+    "headlineRest": "utan krångel.",
+    "intro": "Jag designar och bygger mjukvara som är tydlig att använda och enkel att underhålla. Här samlar jag utvalt arbete och anteckningar.",
+    "viewWork": "Se arbete",
+    "getInTouch": "Hör av dig",
+    "workLabel": "Utvalt arbete",
+    "writingLabel": "Senaste texter",
+    "allWork": "Allt arbete",
+    "allWriting": "Alla texter"
+  },
+  "portfolio": {
+    "kicker": "Arbete",
+    "title": "Utvalt arbete",
+    "lede": "En kort redogörelse för problem, ramar och det som blev klart. Byt ut exempelprojekten mot dina egna.",
+    "visit": "Besök sidan",
+    "back": "Alla projekt"
+  },
+  "blog": {
+    "kicker": "Texter",
+    "title": "Anteckningar",
+    "lede": "Korta texter om att bygga mjukvara och beslut som är lätta att leva med.",
+    "readMore": "Läs mer",
+    "back": "Alla texter"
+  },
+  "ask": {
+    "label": "Fråga mig",
+    "powered": "AI powered",
+    "placeholder": "Vad har du arbetat med?",
+    "submit": "Fråga",
+    "pending": "Tar reda på det",
+    "unknownLead": "Den informationen finns inte på den här sidan. Kontakta mig direkt via e-post",
+    "unknownOr": "eller",
+    "quota": "Kvoten är nådd. Kontakta mig direkt för fler svar via e-post",
+    "unavailable": "Det här är inte tillgängligt just nu. Kontakta mig direkt via e-post",
+    "tooLong": "Håll frågan under 400 tecken.",
+    "linkedinLabel": "LinkedIn"
+  },
+  "contact": {
+    "kicker": "Kontakt",
+    "title": "Hör av dig",
+    "lede": "För projekt, samarbeten eller ett samtal om mjukvara.",
+    "emailLabel": "E-post",
+    "note": "Några rader om vad du arbetar med räcker för att börja."
+  },
+  "footer": {
+    "built": "Engelska och svenska"
+  },
+  "notFound": {
+    "kicker": "404",
+    "title": "Sidan finns inte",
+    "body": "Den sidan finns inte här.",
+    "back": "Tillbaka hem"
+  }
+}
